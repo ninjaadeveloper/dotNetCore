@@ -1,0 +1,32 @@
+﻿
+@{
+    var StudentList = ViewData["students"] as List<StudentModel>;
+}
+
+<table class="table table-bordered">
+
+    <thead>
+        <th>Id</th>
+    <th>Name</th>
+    <th>Batch</th>
+    <th>Email</th>
+    </thead>
+
+
+<tbody>
+@foreach (var std in StudentList)
+{
+    
+  <tr>
+
+                <td>@std.Id</td>
+                <td>@std.Name</td>
+                <td>@std.Batch</td>
+                <td>@std.Email</td>
+
+
+  </tr>  
+
+}
+    </tbody>
+</table>
