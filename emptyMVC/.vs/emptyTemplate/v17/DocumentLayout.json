@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\emptyTemplate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B16CE107-9B7F-48EE-8F98-C8E485C01E94}|emptyTemplate\\emptyTemplate.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\emptytemplate\\emptytemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16CE107-9B7F-48EE-8F98-C8E485C01E94}|emptyTemplate\\emptyTemplate.csproj|solutionrelative:emptytemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16CE107-9B7F-48EE-8F98-C8E485C01E94}|emptyTemplate\\emptyTemplate.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\emptytemplate\\emptytemplate\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16CE107-9B7F-48EE-8F98-C8E485C01E94}|emptyTemplate\\emptyTemplate.csproj|solutionrelative:emptytemplate\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16CE107-9B7F-48EE-8F98-C8E485C01E94}|emptyTemplate\\emptyTemplate.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\emptytemplate\\emptytemplate\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16CE107-9B7F-48EE-8F98-C8E485C01E94}|emptyTemplate\\emptyTemplate.csproj|solutionrelative:emptytemplate\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16CE107-9B7F-48EE-8F98-C8E485C01E94}|emptyTemplate\\emptyTemplate.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\emptytemplate\\emptytemplate\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16CE107-9B7F-48EE-8F98-C8E485C01E94}|emptyTemplate\\emptyTemplate.csproj|solutionrelative:emptytemplate\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16CE107-9B7F-48EE-8F98-C8E485C01E94}|emptyTemplate\\emptyTemplate.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\emptytemplate\\emptytemplate\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16CE107-9B7F-48EE-8F98-C8E485C01E94}|emptyTemplate\\emptyTemplate.csproj|solutionrelative:emptytemplate\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16CE107-9B7F-48EE-8F98-C8E485C01E94}|emptyTemplate\\emptyTemplate.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\emptytemplate\\emptytemplate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16CE107-9B7F-48EE-8F98-C8E485C01E94}|emptyTemplate\\emptyTemplate.csproj|solutionrelative:emptytemplate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 313,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\emptyTemplate\\emptyTemplate\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "emptyTemplate\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\emptyTemplate\\emptyTemplate\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "emptyTemplate\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T04:00:18.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\emptyTemplate\\emptyTemplate\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "emptyTemplate\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\emptyTemplate\\emptyTemplate\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "emptyTemplate\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:56:13.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\emptyTemplate\\emptyTemplate\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "emptyTemplate\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\emptyTemplate\\emptyTemplate\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "emptyTemplate\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:52:56.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\emptyTemplate\\emptyTemplate\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "emptyTemplate\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\emptyTemplate\\emptyTemplate\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "emptyTemplate\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:48:54.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\emptyTemplate\\emptyTemplate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "emptyTemplate\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\emptyTemplate\\emptyTemplate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "emptyTemplate\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:48:04.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\emptyTemplate\\emptyTemplate\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "emptyTemplate\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\emptyTemplate\\emptyTemplate\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "emptyTemplate\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T03:58:26.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 87,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

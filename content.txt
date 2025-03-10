@@ -1,0 +1,10 @@
+MVC
+Sepration of Concern
+View(Presentation Layer)
+Controller (Business Logic / Logic Layer)
+Model (Database Layer)
+
+localhost:7049/home/index
+localhost:7049/user/home
+
+

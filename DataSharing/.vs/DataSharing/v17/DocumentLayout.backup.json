@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DataSharing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA6EE41-522A-45B9-9805-A2DF7C01EE5C}|DataSharing\\DataSharing.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\datasharing\\datasharing\\views\\home\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA6EE41-522A-45B9-9805-A2DF7C01EE5C}|DataSharing\\DataSharing.csproj|solutionrelative:datasharing\\views\\home\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA6EE41-522A-45B9-9805-A2DF7C01EE5C}|DataSharing\\DataSharing.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\datasharing\\datasharing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA6EE41-522A-45B9-9805-A2DF7C01EE5C}|DataSharing\\DataSharing.csproj|solutionrelative:datasharing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA6EE41-522A-45B9-9805-A2DF7C01EE5C}|DataSharing\\DataSharing.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\datasharing\\datasharing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA6EE41-522A-45B9-9805-A2DF7C01EE5C}|DataSharing\\DataSharing.csproj|solutionrelative:datasharing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA6EE41-522A-45B9-9805-A2DF7C01EE5C}|DataSharing\\DataSharing.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\datasharing\\datasharing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA6EE41-522A-45B9-9805-A2DF7C01EE5C}|DataSharing\\DataSharing.csproj|solutionrelative:datasharing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 313,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cshtml",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DataSharing\\DataSharing\\Views\\Home\\Student.cshtml",
+              "RelativeDocumentMoniker": "DataSharing\\Views\\Home\\Student.cshtml",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DataSharing\\DataSharing\\Views\\Home\\Student.cshtml",
+              "RelativeToolTip": "DataSharing\\Views\\Home\\Student.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T04:01:52.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DataSharing\\DataSharing\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DataSharing\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DataSharing\\DataSharing\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DataSharing\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T03:49:47.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DataSharing\\DataSharing\\Program.cs",
+              "RelativeDocumentMoniker": "DataSharing\\Program.cs",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DataSharing\\DataSharing\\Program.cs",
+              "RelativeToolTip": "DataSharing\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T03:41:41.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DataSharing\\DataSharing\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DataSharing\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DataSharing\\DataSharing\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DataSharing\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T03:29:26.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 87,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

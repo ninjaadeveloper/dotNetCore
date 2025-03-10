@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<h1>Data from viewData</h1>
+
+<h1>@ViewData["message"]</h1>
+
+<h2>Batch Code @ViewData["batch"]</h2>
+
+<hr />
+
+<h1>Data from viewBag</h1>
+
+
+<h4>Stduent name is @ViewBag.Name</h4>
+
+<ul>
+@{
+
+    foreach (string std in ViewBag.Names)
+    {
+
+        <li>@std</li>
+    
+    }
+
+}
+</ul>
+    <hr />
+    <h5>Today is @DateTime.Now</h5>
+<h5>Current Time: @DateTime.Now.ToString("HH:mm:ss")</h5>
+<h5>Today is @DateTime.Now.Day</h5>
+<h5>Today is @DateTime.Now.DayOfWeek</h5>
+

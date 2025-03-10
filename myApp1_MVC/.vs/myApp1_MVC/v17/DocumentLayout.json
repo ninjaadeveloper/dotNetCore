@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\myApp1_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{157825A8-3F3E-4D29-A0B2-CA21C92329DB}|myApp1_MVC\\myApp1_MVC.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\myapp1_mvc\\myapp1_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{157825A8-3F3E-4D29-A0B2-CA21C92329DB}|myApp1_MVC\\myApp1_MVC.csproj|solutionrelative:myapp1_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157825A8-3F3E-4D29-A0B2-CA21C92329DB}|myApp1_MVC\\myApp1_MVC.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\myapp1_mvc\\myapp1_mvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{157825A8-3F3E-4D29-A0B2-CA21C92329DB}|myApp1_MVC\\myApp1_MVC.csproj|solutionrelative:myapp1_mvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157825A8-3F3E-4D29-A0B2-CA21C92329DB}|myApp1_MVC\\myApp1_MVC.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\myapp1_mvc\\myapp1_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157825A8-3F3E-4D29-A0B2-CA21C92329DB}|myApp1_MVC\\myApp1_MVC.csproj|solutionrelative:myapp1_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157825A8-3F3E-4D29-A0B2-CA21C92329DB}|myApp1_MVC\\myApp1_MVC.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\myapp1_mvc\\myapp1_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157825A8-3F3E-4D29-A0B2-CA21C92329DB}|myApp1_MVC\\myApp1_MVC.csproj|solutionrelative:myapp1_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 313,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\myApp1_MVC\\myApp1_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "myApp1_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\myApp1_MVC\\myApp1_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "myApp1_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T05:52:13.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\myApp1_MVC\\myApp1_MVC\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "myApp1_MVC\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\myApp1_MVC\\myApp1_MVC\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "myApp1_MVC\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T05:50:45.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\myApp1_MVC\\myApp1_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "myApp1_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\myApp1_MVC\\myApp1_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "myApp1_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:41:20.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\myApp1_MVC\\myApp1_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "myApp1_MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\myApp1_MVC\\myApp1_MVC\\Program.cs",
+              "RelativeToolTip": "myApp1_MVC\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:40:33.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 87,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
