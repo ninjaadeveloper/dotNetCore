@@ -1,0 +1,22 @@
+﻿@model DatabaseApp.Models.Student
+
+<h1>Add Student</h1>
+<a asp-controller="Student" asp-action="Index">Back</a>
+
+<form asp-controller="Student" asp-action="Create" method="post">
+    <label asp-for="sname" class="form-label">Name</label>
+    <input type="text" asp-for="sname" placeholder="Name here ..." class="form-control" />
+    <span asp-validation-for="sname" class="text-danger"></span>
+    <br />
+    <label asp-for="semail" class="form-label">Email</label>
+    <input type="email" asp-for="semail" placeholder="Email here ..." class="form-control" />
+    <span asp-validation-for="sname" class="text-danger"></span>
+    <br />
+    <label asp-for="sbatch" class="form-label">Batch</label>
+    <input type="text" asp-for="sbatch" placeholder="Batch code here ..." class="form-control" />
+    <span asp-validation-for="sbatch" class="text-danger"></span>
+    <br />
+    <input type="submit"  value="Create" class="btn btn-outline-primary mt-3"  />
+</form>   
+
+<div asp-validation-summary="All"></div>

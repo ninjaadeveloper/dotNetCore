@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\TagHelperForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED57A78-944C-4311-BC70-E4BA389377F7}|TagHelperForms\\TagHelperForms.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\taghelperforms\\taghelperforms\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED57A78-944C-4311-BC70-E4BA389377F7}|TagHelperForms\\TagHelperForms.csproj|solutionrelative:taghelperforms\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED57A78-944C-4311-BC70-E4BA389377F7}|TagHelperForms\\TagHelperForms.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\taghelperforms\\taghelperforms\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ED57A78-944C-4311-BC70-E4BA389377F7}|TagHelperForms\\TagHelperForms.csproj|solutionrelative:taghelperforms\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED57A78-944C-4311-BC70-E4BA389377F7}|TagHelperForms\\TagHelperForms.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\taghelperforms\\taghelperforms\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED57A78-944C-4311-BC70-E4BA389377F7}|TagHelperForms\\TagHelperForms.csproj|solutionrelative:taghelperforms\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED57A78-944C-4311-BC70-E4BA389377F7}|TagHelperForms\\TagHelperForms.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\taghelperforms\\taghelperforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED57A78-944C-4311-BC70-E4BA389377F7}|TagHelperForms\\TagHelperForms.csproj|solutionrelative:taghelperforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 313,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\TagHelperForms\\TagHelperForms\\Program.cs",
+              "RelativeDocumentMoniker": "TagHelperForms\\Program.cs",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\TagHelperForms\\TagHelperForms\\Program.cs",
+              "RelativeToolTip": "TagHelperForms\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T03:59:18.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\TagHelperForms\\TagHelperForms\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TagHelperForms\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\TagHelperForms\\TagHelperForms\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TagHelperForms\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T03:32:22.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\TagHelperForms\\TagHelperForms\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "TagHelperForms\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\TagHelperForms\\TagHelperForms\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "TagHelperForms\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T03:31:39.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\TagHelperForms\\TagHelperForms\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "TagHelperForms\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\TagHelperForms\\TagHelperForms\\Models\\UserModel.cs",
+              "RelativeToolTip": "TagHelperForms\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T03:30:31.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 87,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+Step 1:
+Install these packages
+1) Microsoft.EntityFrameworkCore
+2) Microsoft.EntityFrameworkCore.SqlServer
+3) Microsoft.EntityFrameworkCore.Tools
+4) Microsoft.EntityFrameworkCore.Design
+
+Step 2:
+Connection String
+
+server=.
+Database="databaseApp"
+Trusted_Connection=True;
+Encrypt=True;
+
+ "ConnectionStrings": {
+   "dbcon": "server=.;database=databaseApp;user id=sa;password=1234;Encrypt=True;TrustServerCertificate=True"
+ }
+
+Step 3:
+Create Context Class
+
+using Microsoft.EntityFrameworkCore;
+public class myContext : DbContext
+{
+    public myContext(DbContextOptions<myContext> options) : base(options) {
+    
+    }
+}
+
+Step 4:
+
+builder.Services.AddDbContext<myContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("dbcon")));
+
+Step 5: 
+update-database
+
+
+
+
