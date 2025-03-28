@@ -9,5 +9,7 @@ namespace DatabaseApp.Models
         }
 
         public DbSet<Student> tbl_students { get; set; }
+
+        public DbSet<Product> tbl_product { get; set; }
     }
 }

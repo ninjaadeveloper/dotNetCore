@@ -12,6 +12,7 @@
             <th scope="col">Name</th>
             <th scope="col">Email</th>
             <th scope="col">Batch</th>
+            <th scope="col">Action</th>
         </tr>
 
         <tbody>
@@ -25,6 +26,10 @@
                 <td>@std.sname</td>
                 <td>@std.semail</td>
                 <td>@std.sbatch</td>
+                <td>
+                    <a asp-controller="Student" asp-action="Edit" asp-route-id="@std.sid">Edit</a> |
+                    <a asp-controller="Student" asp-action="Delete" asp-route-id="@std.sid" onclick="return confirm('Are you sure to want to delete this Record');">Delete</a>
+                </td>
                 </tr>
                 count++;
             }

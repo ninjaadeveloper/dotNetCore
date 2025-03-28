@@ -35,5 +35,40 @@ namespace DatabaseApp.Controllers
                 return View();
             }
         }
+
+        public IActionResult Edit(int id) {
+           var Student =  _context.tbl_students.Find(id);
+
+            if (Student == null) {
+                     return NotFound();
+                    }
+
+            return View(Student);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(Student std) {
+
+            if (ModelState.IsValid) {
+                _context.tbl_students.Update(std);
+                _context.SaveChanges();
+                return RedirectToAction("Index");
+            }
+
+            return View(std);
+        }
+
+        public IActionResult Delete(int id) {
+
+            var student = _context.tbl_students.Find(id);
+            if (student == null) {
+                return NotFound();
+            }
+
+            _context.tbl_students.Remove(student);
+            _context.SaveChanges();
+
+            return RedirectToAction("Index");
+        }
     }
 }
