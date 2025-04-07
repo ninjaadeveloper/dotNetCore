@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D33A3AC1-D034-4F47-99E1-BC5035BC17C2}|DatabaseApp\\DatabaseApp.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\databaseapp\\databaseapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D33A3AC1-D034-4F47-99E1-BC5035BC17C2}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D33A3AC1-D034-4F47-99E1-BC5035BC17C2}|DatabaseApp\\DatabaseApp.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\databaseapp\\databaseapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33A3AC1-D034-4F47-99E1-BC5035BC17C2}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33A3AC1-D034-4F47-99E1-BC5035BC17C2}|DatabaseApp\\DatabaseApp.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\databaseapp\\databaseapp\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33A3AC1-D034-4F47-99E1-BC5035BC17C2}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33A3AC1-D034-4F47-99E1-BC5035BC17C2}|DatabaseApp\\DatabaseApp.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\databaseapp\\databaseapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33A3AC1-D034-4F47-99E1-BC5035BC17C2}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33A3AC1-D034-4F47-99E1-BC5035BC17C2}|DatabaseApp\\DatabaseApp.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\databaseapp\\databaseapp\\views\\product\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D33A3AC1-D034-4F47-99E1-BC5035BC17C2}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\views\\product\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D33A3AC1-D034-4F47-99E1-BC5035BC17C2}|DatabaseApp\\DatabaseApp.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\databaseapp\\databaseapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D33A3AC1-D034-4F47-99E1-BC5035BC17C2}|DatabaseApp\\DatabaseApp.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\databaseapp\\databaseapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D33A3AC1-D034-4F47-99E1-BC5035BC17C2}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D33A3AC1-D034-4F47-99E1-BC5035BC17C2}|DatabaseApp\\DatabaseApp.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\databaseapp\\databaseapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D33A3AC1-D034-4F47-99E1-BC5035BC17C2}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D33A3AC1-D034-4F47-99E1-BC5035BC17C2}|DatabaseApp\\DatabaseApp.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\databaseapp\\databaseapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D33A3AC1-D034-4F47-99E1-BC5035BC17C2}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 313,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +42,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "DatabaseApp\\Views\\Student\\Index.cshtml",
               "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\Views\\Student\\Index.cshtml",
               "RelativeToolTip": "DatabaseApp\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAACjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T03:33:28.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "DatabaseApp\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "DatabaseApp\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T03:31:33.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "DatabaseApp\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "DatabaseApp\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T03:30:46.497Z",
+              "WhenOpened": "2025-04-07T05:29:27.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\Views\\Product\\Show.cshtml",
+              "RelativeDocumentMoniker": "DatabaseApp\\Views\\Product\\Show.cshtml",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\Views\\Product\\Show.cshtml",
+              "RelativeToolTip": "DatabaseApp\\Views\\Product\\Show.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T05:27:05.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "DatabaseApp\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "DatabaseApp\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T04:53:57.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "DatabaseApp\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "DatabaseApp\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:35:22.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "DatabaseApp\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\Controllers\\ProductController.cs",
               "RelativeToolTip": "DatabaseApp\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowBAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwFEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T03:30:33.008Z",
+              "WhenOpened": "2025-04-07T04:23:19.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "DatabaseApp\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\Models\\Product.cs",
-              "RelativeToolTip": "DatabaseApp\\Models\\Product.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAkwAsAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "myContext.cs",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\Models\\myContext.cs",
+              "RelativeDocumentMoniker": "DatabaseApp\\Models\\myContext.cs",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\Models\\myContext.cs",
+              "RelativeToolTip": "DatabaseApp\\Models\\myContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T03:28:32.208Z",
+              "WhenOpened": "2025-04-07T04:20:35.256Z",
               "EditorCaption": ""
             }
           ]

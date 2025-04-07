@@ -1,0 +1,11 @@
+﻿@using DatabaseApp.Models;
+@model Product;
+
+<h1>@Model.prodName</h1>
+
+<img src="~/uploads/@Model.prodImage" alt="@Model.prodName" height="300" width="auto" />
+
+<h4>@Model.prodPrice</h4>
+
+<a class="btn btn-outline-success" asp-contoller="Product" asp-action="Edit" asp-route-id="@Model.Id">Edit</a> | 
+<a class="btn btn-outline-danger" asp-controller="Product" asp-action="Delete" asp-route-id="@Model.Id" onClick="return confirm('Are you sure to delete this product');">Delete</a>

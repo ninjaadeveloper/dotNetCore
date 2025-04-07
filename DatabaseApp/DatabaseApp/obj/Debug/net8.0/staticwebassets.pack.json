@@ -253,8 +253,28 @@
       "PackagePath": "staticwebassets\\uploads\\Blue Gradient Modern Freelancer YouTube Thumbnail .png"
     },
     {
+      "Id": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\wwwroot\\uploads\\Blue Yellow Online webinar Poster.png",
+      "PackagePath": "staticwebassets\\uploads\\Blue Yellow Online webinar Poster.png"
+    },
+    {
       "Id": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\wwwroot\\uploads\\Helium10_main-logo-image-1.png",
       "PackagePath": "staticwebassets\\uploads\\Helium10_main-logo-image-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\wwwroot\\uploads\\a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\wwwroot\\uploads\\abc.png",
+      "PackagePath": "staticwebassets\\uploads\\abc.png"
+    },
+    {
+      "Id": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\wwwroot\\uploads\\front.jpg",
+      "PackagePath": "staticwebassets\\uploads\\front.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\DatabaseApp\\DatabaseApp\\wwwroot\\uploads\\images.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DatabaseApp.Microsoft.AspNetCore.StaticWebAssets.props",

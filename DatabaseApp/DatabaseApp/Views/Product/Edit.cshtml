@@ -1,0 +1,26 @@
+﻿@using DatabaseApp.Models;
+@model Product;
+
+<h1>Edit @Model.prodName</h1>
+
+
+<form asp-controller="Product" asp-action="Edit" method="post" enctype="multipart/form-data">
+    <input type="number" value="@Model.Id" asp-for="Id" hidden />
+    <label asp-for="prodName" class="form-label">Name</label>
+    <input type="text" asp-for="prodName" placeholder="Product Name" class="form-control" value="@Model.prodName" />
+    <br />
+
+    <label asp-for="prodPrice" class="form-label">Price</label>
+    <input type="number" asp-for="prodPrice" placeholder="Product Price" class="form-control" value="@Model.prodPrice" />
+    <br />
+
+    <label asp-for="prodImage" class="form-label">Image</label>
+    <input type="file" asp-for="prodImage" class="form-control" />
+    <br />
+
+    <img src="~/uploads/@Model.prodImage" alt="@Model.prodName" height="150" width="auto" />
+    <br />
+    <input type="submit" value="Update" class="btn btn-outline-primary mt-3" />
+
+
+</form>
