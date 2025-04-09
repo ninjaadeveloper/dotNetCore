@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\UserManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B517EAD-9C8A-4DEC-95CE-912BA917D686}|UserManagement\\UserManagement.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\usermanagement\\usermanagement\\areas\\identity\\data\\usermanagementclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B517EAD-9C8A-4DEC-95CE-912BA917D686}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\areas\\identity\\data\\usermanagementclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B517EAD-9C8A-4DEC-95CE-912BA917D686}|UserManagement\\UserManagement.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\usermanagement\\usermanagement\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B517EAD-9C8A-4DEC-95CE-912BA917D686}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\UserManagement\\UserManagement\\Migrations\\20250409060709_updated1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManagement\\Migrations\\20250409060709_updated1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B517EAD-9C8A-4DEC-95CE-912BA917D686}|UserManagement\\UserManagement.csproj|c:\\users\\int\\documents\\pr2-202311b\\hdse-i\\dotnetcore\\usermanagement\\usermanagement\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B517EAD-9C8A-4DEC-95CE-912BA917D686}|UserManagement\\UserManagement.csproj|solutionrelative:usermanagement\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 313,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250409060709_updated1.cs",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\UserManagement\\UserManagement\\Migrations\\20250409060709_updated1.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Migrations\\20250409060709_updated1.cs",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\UserManagement\\UserManagement\\Migrations\\20250409060709_updated1.cs",
+              "RelativeToolTip": "UserManagement\\Migrations\\20250409060709_updated1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:07:09.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManagementClass.cs",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\UserManagement\\UserManagement\\Areas\\Identity\\Data\\UserManagementClass.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Areas\\Identity\\Data\\UserManagementClass.cs",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\UserManagement\\UserManagement\\Areas\\Identity\\Data\\UserManagementClass.cs",
+              "RelativeToolTip": "UserManagement\\Areas\\Identity\\Data\\UserManagementClass.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:06:21.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\UserManagement\\UserManagement\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\UserManagement\\UserManagement\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "UserManagement\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwE4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:53:43.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\UserManagement\\UserManagement\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "UserManagement\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Int\\Documents\\PR2-202311B\\HDSE-I\\dotNetCore\\UserManagement\\UserManagement\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "UserManagement\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T05:51:50.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 87,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
