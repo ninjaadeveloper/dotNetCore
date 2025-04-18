@@ -1,0 +1,1 @@
+Scaffold-DBContext "server=.;Database=crudAPI;user id=sa;password=1234;TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models 

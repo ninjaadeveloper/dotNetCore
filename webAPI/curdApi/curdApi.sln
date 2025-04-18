@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "curdApi", "curdApi\curdApi.csproj", "{D06A41F1-6D56-484E-9B40-75DE1649A5FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D06A41F1-6D56-484E-9B40-75DE1649A5FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D06A41F1-6D56-484E-9B40-75DE1649A5FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D06A41F1-6D56-484E-9B40-75DE1649A5FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D06A41F1-6D56-484E-9B40-75DE1649A5FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D03E96A-3D55-4FF9-98B5-266137721CB1}
+	EndGlobalSection
+EndGlobal
